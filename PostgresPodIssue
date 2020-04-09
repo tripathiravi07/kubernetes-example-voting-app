@@ -15,3 +15,6 @@ spec:
           value: "trust"
       ports:
         - containerPort: 5432
+
+URL:-
+https://github.com/mmumshad/kubernetes-example-voting-app/issues/1
